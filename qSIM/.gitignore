@@ -1,0 +1,3 @@
+# Display the qSIN folder but ignore all files inside it
+*
+!.gitignore
