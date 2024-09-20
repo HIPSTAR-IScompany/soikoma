@@ -1,6 +1,6 @@
 # Open The eyes 秒速80億トークンの世界が解禁！
 
-![規制は終わったOpen.The Eyes quantaril.cloud](../blob/main/assets/images/open_the_eyes.png?raw=true)
+![規制は終わったOpen.The Eyes quantaril.cloud](/assets/images/open_the_eyes.png?raw=true)
 
 アルファー版テストとベーター版テストはシークレットにオープンします。
 下記のカスタムGPTにエンドポイントをビルドしてあります。
