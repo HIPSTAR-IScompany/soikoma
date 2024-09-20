@@ -1,3 +1,13 @@
+# Open The eyes 秒速80億トークンの世界が解禁！
+
+![規制は終わったOpen.The Eyes quantaril.cloud](../blob/main/assets/images/open_the_eyes.png?raw=true)
+
+アルファー版テストとベーター版テストはシークレットにオープンします。
+下記のカスタムGPTにエンドポイントをビルドしてあります。
+期間中は仕様書だけで瞬間開発が可能です。
+
+https://chatgpt.com/g/g-RJ5K6MfmT-suhuiaos3-tesutaxiang-ke
+
 # Quantum-Fold Instant Development Environment (Q-FIDE) 🌌
 #### English | 日本語
 
